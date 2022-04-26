@@ -7,7 +7,6 @@ import com.axpo.secnotes.infraestructure.entities.NoteEntity;
 import com.axpo.secnotes.infraestructure.mapper.NoteMapper;
 import com.axpo.secnotes.infraestructure.repository.NoteRepository;
 import com.github.javafaker.Faker;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.runner.RunWith;
